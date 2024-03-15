@@ -1,0 +1,13 @@
+.w1200{
+    width: 1200px;
+    margin: 0 auto;
+}
+.w100{
+    width: 100%;
+}
+.flex{
+    display: flex;
+}
+.common_img{
+    background-image: url(../img/sp_common.png);
+}
